@@ -1,1 +1,1 @@
-# event-bus-service
+# @nuxt4-layers/event-bus-service
